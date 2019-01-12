@@ -1,0 +1,19 @@
+.stats {
+  margin: 10px;
+  padding-top: 10px;
+  width: 261px;
+  height: 230px;
+  border: 5px solid black;
+  font-weight: bold;
+  border-radius: 10%;
+  background-color: #fff;
+    background-color: rgba(255,255,255,0.6);
+}
+
+.person {
+  display: inline-flex;
+}
+
+.name {
+  font-size: 20px;
+}
